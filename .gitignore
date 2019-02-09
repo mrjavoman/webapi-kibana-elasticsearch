@@ -1,1 +1,4 @@
 .vs/
+.vscode/
+webapi-kibana-elasticsearch/obj/Debug/*
+webapi-kibana-elasticsearch/bin/Debug/*
